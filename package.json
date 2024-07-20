@@ -78,8 +78,8 @@
 		"uuid": "^9.0.1"
 	}
 	{
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
+        "scripts": {
+                 "build": "[my-framework] build --output public"
+                  }
+        }
 }
